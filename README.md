@@ -1,6 +1,6 @@
-## hello-world
+## Hello-World
 
-Hi Humans!
+Hello, rest of humanity!
 
 I like Node.js and Angular.
-Tacos on the moon are superior to Earth tacos.
+Earth politics are ridiculous!
